@@ -20,6 +20,7 @@ Bagaimana analisisnya berikut urutannya:
 3. Profil data
 4. Cek nilai unik
 5. Standarisasi tipe data dan nilai kolom
-6. Lihat distribusi variabel
-7. Cek missing value
-8. Ganti dan input nilai median etc untuk nilai kolom yang kosong
+6. Deteksi nilai outlier (box plot)
+7. Lihat distribusi variabel
+8. Cek missing value
+9. Ganti dan input nilai median etc untuk nilai kolom yang kosong
